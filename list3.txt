@@ -1,0 +1,11 @@
+total 26
+drwxr-xr-x 1 Ahmed.khalil 1049089   0 Feb  9 15:47 ./
+drwxr-xr-x 1 Ahmed.khalil 1049089   0 Feb  8 13:16 ../
+drwxr-xr-x 1 Ahmed.khalil 1049089   0 Feb  9 15:46 .git/
+-rw-r--r-- 1 Ahmed.khalil 1049089 308 Feb  9 14:17 README.md
+-rw-r--r-- 1 Ahmed.khalil 1049089  79 Feb  8 13:32 bluestyle.css
+-rw-r--r-- 1 Ahmed.khalil 1049089 430 Feb  9 10:06 dir.txt
+-rw-r--r-- 1 Ahmed.khalil 1049089 466 Feb  9 10:06 index.html
+-rw-r--r-- 1 Ahmed.khalil 1049089 483 Feb  9 14:19 list1.txt
+-rw-r--r-- 1 Ahmed.khalil 1049089   0 Feb  9 15:47 list3.txt
+-rw-r--r-- 1 Ahmed.khalil 1049089  37 Feb  9 15:42 testBranch
